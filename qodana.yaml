@@ -1,0 +1,3 @@
+dotnet:
+  project: HelloQodana_Action.csproj
+  failThreshold: 0
